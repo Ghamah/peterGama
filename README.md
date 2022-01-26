@@ -1,2 +1,1 @@
 # peterGama
- my.R
