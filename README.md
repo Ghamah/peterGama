@@ -5,7 +5,6 @@
   using namespce std;
   
   int main(){
-      cout << " Hello, Github "<<endl;
-      cout <<" Thanks for checking this repository, it mean something!!! "<<endl;
+      cout << " Hello, Github, Thanks for checking this repository, it means alot!!! "<<endl;
       return(0);
   }
